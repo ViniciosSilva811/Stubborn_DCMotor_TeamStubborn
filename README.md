@@ -1,2 +1,2 @@
 # Stubborn_DCMotor
-Biblioteca para L298N
+Biblioteca Stubborn_DCMotor adaptada para a Stubborn Monster Shield 
